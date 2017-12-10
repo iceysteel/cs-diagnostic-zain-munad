@@ -1,0 +1,8 @@
+Problem 2:
+	A compiled language is converted into machine level code before the program is run. Once complied for a specific machine, code cannot be ported to other machines in compiled form. Interpreted languages are translated to lower level code at run time line by line by an interpreter. a strength of compilers is that since they can take time to analyze code, they can make the compiled code far more efficent. a weakness of compiled languages is that sometimes compiling can take large amounts of time and needs to be done for every new machine the code is run on. A developer would choose a compiled language if they were pursueing raw performance. A strength of an interpreted language is that during development a dev can usually use a command line to test out lines of code and functions, while a disadvantage is that an interpreted language is slower.
+
+problem 8:
+	lists in python are just ordered lists of objects. tuples are very similar to lists at first glance but they are immutable, meaning no changes or updates can be made. Hash tables have a string assosiated with each object that they contain and are otherwise unordered. 
+
+problem 11:
+	inheritance is useful to programmers because it allows us to reuse code. It can also allow us to structure our programs to reflect the way things may be structured in real life. 
